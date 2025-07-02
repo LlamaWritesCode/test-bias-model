@@ -6,14 +6,18 @@ Model and preprocessing tools saved.
 --- Evaluating Model on Internal Test Split ---
 Accuracy on internal test split: 0.636
 Classification Report on internal test split:
-               precision    recall  f1-score   support
 
-           0       0.66      0.75      0.70      1137
-           1       0.60      0.48      0.53       863
+               precision    recall  f1-score   support
 
-   accuracy                            0.64      2000
-   macro avg       0.63      0.62      0.62      2000
-weighted avg       0.63      0.64      0.63      2000
+           0       0.66      0.75      0.70      1137
+
+           1       0.60      0.48      0.53       863
+
+   accuracy                            0.64      2000
+
+   macro avg       0.63      0.62      0.62      2000
+
+weighted avg       0.63      0.64      0.63      2000
 
 
 🎯 Generating bias visualizations (using predictions on full loan_access_dataset for comprehensive audit)...
