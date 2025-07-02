@@ -11,7 +11,7 @@ Classification Report on internal test split:
            0       0.66      0.75      0.70      1137
            1       0.60      0.48      0.53       863
 
-    accuracy                           0.64      2000
+   accuracy                            0.64      2000
    macro avg       0.63      0.62      0.62      2000
 weighted avg       0.63      0.64      0.63      2000
 
